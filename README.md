@@ -5,16 +5,8 @@ Test Repositroy
 
 Created and Maintained by O
 
-<<<<<<< HEAD
-Nalli
-=======
-@Copyright by Suren.
+Phone
 
-Peacock was where ?
+Nelli
 
-All rights reserved with Suren. 
-
-Tortoise Rabbit
-
-Little nath
->>>>>>> parent of dda5edd... Nalli Added
+Malli 
