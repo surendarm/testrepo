@@ -1,4 +1,6 @@
 <?php
 
 echo "Hai"; ///////////////////// changed ny suresh ////////////////////////
+
+// comment by Surendar
 ?>
