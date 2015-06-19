@@ -1,4 +1,4 @@
 <?php
 
-echo "Hi";
+echo "Hai"; ///////////////////// changed ny suresh ////////////////////////
 ?>
